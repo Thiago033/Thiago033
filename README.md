@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    
+    
 </div>
   
-<div>
-  ![Snake animation](https://github.com/Thiago033/Thiago033/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/Thiago033/Thiago033/blob/output/github-contribution-grid-snake.svg)
