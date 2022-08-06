@@ -12,11 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago033&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-<div align="center">
-    <a href="https://github.com/Thiago033/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thiago's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago033&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-</div>
- 
 <!-- Language Icons -->
 <h2 align="center">Languages and Tools:</h2>
 <div align="center" style="display: inline_block"><br>
@@ -26,6 +21,14 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-    
+  <br>
+  <br>
+
+<!-- Streak -->
+<div align="center">
+  <a href="https://github.com/Thiago033/github-readme-streak-stats">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thiago's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago033&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+</div>
+  
 <!-- Snake animation -->
 ![Snake animation](https://github.com/Thiago033/Thiago033/blob/output/github-contribution-grid-snake.svg)
