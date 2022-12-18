@@ -2,7 +2,7 @@
 **Thiago033/Thiago033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm Thiago Lopes</h1>
+<h1 align="center">Hi 👋, I'm Thiago</h1>
 <h2 align="center">📊 My Github Stats</h2>
 
 <!-- Stats -->
