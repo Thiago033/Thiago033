@@ -36,6 +36,3 @@
   <a href="https://github.com/Thiago033/github-readme-streak-stats">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thiago's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago033&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 </div>
-  
-<!-- Snake animation -->
-![Snake animation](https://github.com/Thiago033/Thiago033/blob/output/github-contribution-grid-snake.svg)
